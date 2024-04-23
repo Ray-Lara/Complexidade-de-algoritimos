@@ -19,10 +19,10 @@ Este repositório contém implementações de algoritmos dos exercícios do Trab
 ## Execução
 
 Para executar os programas, você precisa compilar os arquivos `.cpp` utilizando um compilador C++. Aqui está um exemplo de como compilar e executar os programas usando g++:
-
+```
 g++ -o buscaBinaria -O0 -ansi -Wall -pedantic buscaBinaria.cpp
-
 ./buscaBinaria
+```
 
 ## Autora
 
